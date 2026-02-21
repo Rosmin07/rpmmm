@@ -68,13 +68,16 @@ Not applicable.
 ### Screenshots
 <p align="center">
   <img src="./Screenshot 2026-02-21 074051.png" alt="IMAGE1r" width="100%">
-</p
+</p>
 <p align="center">
   <img src="./Screenshot 2026-02-21 074110.png" alt="IMAGE2" width="100%">
-</p
+</p>
+<p align="center">
+  <img src="./Screenshot 2026-02-21 074155.png" alt="IMAGE3" width="100%">
+</p>
 <p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
-</p
+</p>
 
 ### Diagrams
 #### System Architecture
