@@ -75,10 +75,7 @@ No installation required. All files are static.
 #### Run
 Open `index.html` in a web browser.
 
-### Hardware
-Not applicable.
 
----
 
 ## Project Documentation
 ### Screenshots
@@ -97,8 +94,10 @@ Not applicable.
 <p align="center">
   <img src="./Screenshot 2026-02-21 074322.png" alt="IMAGE5" width="100%">
 </p>
-###DEMO VIDEO
+
+### DEMO VIDEO
 https://drive.google.com/file/d/1KxLAHDuy_EBsvoKfXvTQmn39SIX8Eoje/view?usp=sharing
+
 ### Diagrams
 #### System Architecture
 Student Interface
@@ -119,6 +118,7 @@ LocalStorage Updated
         │
         ▼
 Student Status Page
+
 #### Application Workflow
 Student Uploads File
         ↓
