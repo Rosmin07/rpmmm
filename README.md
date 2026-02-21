@@ -66,11 +66,15 @@ Not applicable.
 
 ## Project Documentation
 ### Screenshots
-![Screenshot1](Add screenshot 1 here) _Landing page_
-
-![Screenshot2](Add screenshot 2 here) _Order management interface_
-
-![Screenshot3](Add screenshot 3 here) _Order details view_
+<p align="center">
+  <img src="./img.png" alt="Project Banner" width="100%">
+</p
+<p align="center">
+  <img src="./img.png" alt="Project Banner" width="100%">
+</p
+<p align="center">
+  <img src="./img.png" alt="Project Banner" width="100%">
+</p
 
 ### Diagrams
 #### System Architecture
