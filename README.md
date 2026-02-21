@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 <h3>REPROGRAPHY MANAGEMENT SYSTEM</h3>
-## Basic Details
+### Basic Details
 
 ### Team Members
 - Member 1: [Rosmin Roy] - [Viswajyothi College of Engineering and Technology]
