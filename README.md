@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
-
+<h3>REPROGRAPHY MANAGEMENT SYSTEM</h3>
 ## Basic Details
 
 ### Team Members
@@ -31,15 +31,31 @@ amount of time . the can know the status of the print before going to the repro
 ---
 
 ## Technical Details
+The College Reprography Management System is a static website developed using HTML, CSS, and JavaScript. It provides separate interfaces for students and reprography staff to place and manage print orders.
+
+Student order details such as file name, print type, required time, status, and amount are stored using browser LocalStorage. The system is developed in Visual Studio Code and deployed using
+GitHub Pages.
 ### Technologies/Components Used
+HTML – For creating web pages
+
+CSS – For styling the website
+
+JavaScript – For system logic and functions
+
+LocalStorage – For storing order details
+
+Visual Studio Code – Code editor used for development
+
+GitHub Pages – For hosting the website
+
+Web Browser – To run and access the system (Chrome / Edge)
 #### Software
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks:** None (Vanilla JS)
 - **Libraries:** None
 - **Tools:** VS Code, Git
 
-#### Hardware
-- Not applicable (web project)
+
 
 ---
 
@@ -81,7 +97,8 @@ Not applicable.
 <p align="center">
   <img src="./Screenshot 2026-02-21 074322.png" alt="IMAGE5" width="100%">
 </p>
-
+###DEMO VIDEO
+https://drive.google.com/file/d/1KxLAHDuy_EBsvoKfXvTQmn39SIX8Eoje/view?usp=sharing
 ### Diagrams
 #### System Architecture
 Student Interface
@@ -125,10 +142,6 @@ Student Checks Status
         ↓
 Collects Print
 ---
-
-## Additional Documentation
-### API Documentation
-_Not applicable (no backend)_
 
 ### App Flow Diagram
                 ┌───────────────┐
