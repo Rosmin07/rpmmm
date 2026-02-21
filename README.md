@@ -78,6 +78,9 @@ Not applicable.
 <p align="center">
   <img src="./Screenshot 2026-02-21 074224.png" alt="IMAGE4" width="100%">
 </p>
+<p align="center">
+  <img src="./img.png" alt="Project Banner" width="100%">
+</p>
 
 ### Diagrams
 #### System Architecture
