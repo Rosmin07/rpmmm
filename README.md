@@ -67,7 +67,7 @@ Not applicable.
 ## Project Documentation
 ### Screenshots
 <p align="center">
-  <img src="./img.png" alt="Project Banner" width="100%">
+  <img src="./Screenshot 2026-02-21 074051.png" alt="Project Banner" width="100%">
 </p
 <p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
